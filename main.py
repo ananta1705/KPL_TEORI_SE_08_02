@@ -1,0 +1,1 @@
+print("selamat datang di dunia pemrograman python!")
